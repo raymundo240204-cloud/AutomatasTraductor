@@ -1,0 +1,9 @@
+a = 10
+b = 3
+suma = a + b
+resta = a - b
+producto = a * b
+cociente = a // b
+residuo = a % b
+resultado = (a + b) * 2
+negativo = -7 // 3
