@@ -1,8 +1,4 @@
-I generated a README draft for this repo, but the repository write failed because the current account doesn’t have permission to modify that GitHub repo.
 
-Here’s the README content you can copy into a local `README.md` or paste into a repository where you have write access:
-
-```md
 # AutomatasTraductor
 
 Traductor de un subconjunto de Python a lenguaje ensamblador para arquitectura 8086. El proyecto toma expresiones matemáticas con asignaciones simples, valida su sintaxis y genera un archivo `.asm` listo para ser ejecutado en emuladores como EMU8086.
@@ -47,10 +43,6 @@ Desde la terminal, ejecuta:
 ```bash
 python Traductor.py entrada.py
 ```
-
-Esto generará un archivo `entrada.asm` en el mismo directorio.
-
-También puedes especificar explícitamente el nombre del archivo de salida:
 
 ```bash
 python Traductor.py entrada.py salida.asm
